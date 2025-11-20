@@ -1,7 +1,7 @@
 
 # LazyBasics
 A module for doing basic arithmetic for the sake of using a module
-<
+
 (Currently only available for Lua)
 ### How to use in project:
 
